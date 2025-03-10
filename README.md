@@ -1,4 +1,6 @@
 # Amigo-Secreto
+# Link
+Link para acessar a aplicação: https://amigo-secreto-vert-kappa.vercel.app/
 # Índice
 ° Sobre  
 ° Funcionalidade  
